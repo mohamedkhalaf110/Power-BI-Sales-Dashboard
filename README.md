@@ -43,5 +43,5 @@ step 3 is createing star Schema.
 
 Then i created dashboard that tells a story about data.
 
+![image](https://github.com/mohamedkhalaf110/Power-BI-Sales-Dashboard/assets/93522514/dfd03747-f4fc-4656-8b48-2599850a99fa)
 
-<img width="609" alt="power" src="https://github.com/mohamedkhalaf110/Power-BI-Sales-Dashboard/assets/93522514/ecca6e72-b374-4cd1-88b3-a0f1f815530c">
